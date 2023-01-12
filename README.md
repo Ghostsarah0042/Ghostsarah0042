@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oGghost
-- 👀 I’m interested in ... phishing hacking web development ransomware and ideas to make money  
-- 🌱 I’m currently learning php python GO lang javascript
+- 👀 I’m interested in ... phishing attcks,Hacking ,Web Development,Ransomwares and ideas to make money  
+- 🌱 I’m currently learning  javascript
 - 💞️ I’m looking to collaborate on any projects i'm always avaiable for deals and tools development 
 - 📫 How to reach me OGghost0042@protonmail.com
 
